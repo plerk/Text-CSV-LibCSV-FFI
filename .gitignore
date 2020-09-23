@@ -1,5 +1,4 @@
 Text-CSV-LibCSV-FFI-*
 /.build/
 *.swp
-
-
+/ffi/_build
